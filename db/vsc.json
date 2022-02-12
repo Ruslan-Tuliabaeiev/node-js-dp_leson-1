@@ -1,0 +1,22 @@
+{
+    "editor.fontSize": 18,
+    "files.autoSave": "onFocusChange",
+    "git.enableSmartCommit": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "settingsSync.ignoredSettings": [
+        "editor.fontSize"
+    ],
+    "liveServer.settings.donotVerifyTags": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "workbench.iconTheme": "file-icons",
+    "workbench.colorTheme": "Rainbow",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    },
+    "window.zoomLevel": 2
+}

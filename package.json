@@ -1,0 +1,25 @@
+{
+  "name": "node-js-dp_leson-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node app.js",
+    "dev": "cross-env NODE_ENV=development nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruslan-Tuliabaeiev/node-js-dp_leson-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruslan-Tuliabaeiev/node-js-dp_leson-1/issues"
+  },
+  "homepage": "https://github.com/Ruslan-Tuliabaeiev/node-js-dp_leson-1#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "nodemon": "^2.0.15"
+  }
+}
